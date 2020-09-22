@@ -16,12 +16,12 @@ h1{
 }
 
 #one {
-    background-color:#10a7e3;
+    background-color:darkgrey;
     opacity: .80;
 }
 
 #two{
-    background-color: darkgrey;
+    background-color: #10a7e3;
     opacity: .80;
 }
 .banner{
